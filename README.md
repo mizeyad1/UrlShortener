@@ -1,1 +1,1 @@
-Url Shortener using Local DynamoDB 
+Springboot Url Shortener using Local DynamoDB 
