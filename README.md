@@ -28,7 +28,7 @@ To use DynamoDB with the URL Shortener Service, you can run the DynamoDB locally
 
 ---
 
-### Local DynamoDB**
+### Local DynamoDB
 
 1. **Run DynamoDB Locally Using Docker**
    - Ensure Docker is installed on your system.
